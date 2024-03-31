@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rajiv Kumar Singh and I'm a Student at Lovely Professional University. Aspiring to become a Web Developer.</h2>
+<h2 align="left">Hi 👋 ! My name is Rajiv Kumar Singh and I'm a Student at Lovely Professional University. Aspiring to become a Web Developer.</h2>
 
 ###
 
