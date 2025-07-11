@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rajiv Kumar Singh and I'm a Student at Lovely Professional University. Aspiring to become a Web Developer.</h2>
-
+<h2 align="left">Hi 👋! I'm Rajiv Kumar Singh — a Computer Science student at Lovely Professional University, passionate about full-stack web development and AI-powered applications.</h2> <p align="left"> I have hands-on experience building and deploying projects using the MERN stack (MongoDB, Express.js, React.js, Node.js), and I've worked on real-world GenAI solutions during my internship at Infosys Springboard. My goal is to build scalable, user-friendly digital experiences and continuously grow as a developer through practical learning and impactful contributions. 🚀 </p>
 ###
 
 <div align="center">
